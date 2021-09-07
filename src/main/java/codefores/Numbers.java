@@ -5,6 +5,7 @@ public class Numbers {
 //        numbers
 
         System.out.println(oneRoomNumber(66));
+        System.out.println(oneRoomNumber(66));
     }
 
     public static boolean oneRoomNumber(int number){
