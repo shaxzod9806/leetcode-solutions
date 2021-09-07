@@ -4,7 +4,6 @@ public class Numbers {
     public static void main(String[] args) {
 //        numbers
         System.out.println(oneRoomNumber(66));
-        System.out.println(oneRoomNumber(66));
     }
 
     public static boolean oneRoomNumber(int number){
